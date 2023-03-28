@@ -1,1 +1,1 @@
-My config files for AstroNeovim
+My config files for AstroNvim
